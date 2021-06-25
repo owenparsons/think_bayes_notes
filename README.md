@@ -6,3 +6,4 @@ These notes generally follow the examples from the book quite closely, but devia
 ## Contents:
 * [Chapter 1](notes/chapter_1.ipynb)
 * [Chapter 2](notes/chapter_2.ipynb)
+* [Chapter 3](notes/chapter_3.ipynb)
