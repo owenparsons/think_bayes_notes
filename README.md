@@ -11,3 +11,4 @@ These notes generally follow the examples from the book quite closely, but devia
 * [Chapter 5](notes/chapter_5.ipynb)
 * [Chapter 6](notes/chapter_6.ipynb)
 * [Chapter 7](notes/chapter_7.ipynb)
+* [Chapter 8](notes/chapter_8.ipynb)
